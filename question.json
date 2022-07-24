@@ -1,0 +1,33 @@
+[
+    {
+        "q":"Inside which HTML element do we put the JavaScript?        ",
+        "a1":"meta",
+        "a2":"javascript balise",
+        "a3":"script balise",
+        "ra":"script balise"
+        
+    },
+    {
+        "q": "Where is the correct place to insert a JavaScript?",
+        "a1":"head",
+        "a2":"body",
+        "a3":"footer",
+        "ra":"body"
+    },
+    {
+        "q":"Que singifie JSON",
+        "a1":"Jen senn object notion ",
+        "a2":"Javascript object notation",
+        "a3":"Js onnet None",
+        "ra":"Javascript object notation"
+    },
+    {
+        "q":"deference entre JSON et XML",
+        "a1":"Xml plus utilise",
+        "a2":"json plus utilise",
+        "a3":"Xml trens short",
+        "ra":"json plus utilise"
+    
+    
+    }
+]

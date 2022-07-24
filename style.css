@@ -1,0 +1,57 @@
+
+.next {
+  background-color: rgba(67, 123, 67, 0.807);
+  cursor: pointer;
+  border: 1px solid green;
+  padding: 5px 20px;
+  color: white;
+}
+.res {
+  background-color: rgb(240, 84, 84);
+  cursor: pointer;
+  border: 1px solid red;
+  padding: 5px 20px;
+  color: white;
+}
+.btns {
+  margin-top: 20px;
+  text-align: center;
+  position: relative;
+}
+.time{
+  position: absolute;
+  right: 5px;
+  bottom: 0;
+}
+.main {
+  margin: auto;
+  background: gainsboro;
+  width: 80%;
+  border: green 1px solid;
+  padding: 10px;
+}
+.header{
+  position: relative;
+
+}
+.header .len{
+  position: absolute;
+  right: 10px;
+}
+#mainDiv{
+  padding: 10px ;
+  border-top: 1px whitesmoke solid;
+}
+.info .spans {
+  display: flex;
+}
+.info .spans .active{
+  background: #000;
+}
+.info .spans span{
+  width: 20px;
+height: 20px;
+background: #bab6b6;
+border-radius: 50%;
+margin: 1px;
+}
